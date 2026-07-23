@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /
+
+Sitemap: https://adalbertopaifer54-arch.github.io/adalbertopaifer54-arco.github.io/
